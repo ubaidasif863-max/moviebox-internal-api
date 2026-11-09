@@ -1,0 +1,2 @@
+[tool.vercel]
+entrypoint = "moviebox_api_server:app"
